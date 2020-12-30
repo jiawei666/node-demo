@@ -1,5 +1,36 @@
 {
+  "name": "vue-demp",
+  "version": "1.0.0",
+  "description": "vue-demo项目，通过项目增加对nodejs,npm,webpack的理解",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiawei666/vue-demo.git"
+  },
+  "keywords": [
+    "vue",
+    "nodejs",
+    "webpack"
+  ],
+  "author": "jiawei666",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiawei666/vue-demo/issues"
+  },
+  "homepage": "https://github.com/jiawei666/vue-demo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "async": "^3.2.0",
+    "benchmark": "^2.1.4",
+    "cheerio": "^1.0.0-rc.5",
+    "eventproxy": "^1.0.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "should": "^13.2.3",
+    "superagent": "^6.1.0",
+    "supertest": "^6.0.1",
+    "utility": "^1.17.0"
   }
 }
