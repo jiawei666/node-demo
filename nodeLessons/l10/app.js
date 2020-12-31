@@ -18,8 +18,7 @@ var int3 = function (str) {
 var number = '100';
 
 // 添加测试
-suite
-    .add('+', function() {
+suite.add('+', function() {
         int1(number);
     })
     .add('parseInt', function() {
