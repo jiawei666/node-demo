@@ -1,4 +1,6 @@
 ### vue-demo
+![](https://img.shields.io/badge/build-passing-green)
+
 vue-demo项目，通过项目增加对nodejs、npm、webpack的理解
 
 ### 环境要求
