@@ -36,6 +36,11 @@ npm install
         ```shell script
         npm i -g nodemon
         ```
+    - 静态模块打包器`webpack`
+        ```shell script
+        npm i -g webpack
+        npm i -g webpack-cli
+        ```
       
 ##### 当前进度：`10/18`
 
