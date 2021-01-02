@@ -21,4 +21,3 @@ var fibonacci = function (n) {
 
 module.exports.fibonacci = fibonacci;
 module.exports.pubModule = module;
-module.exports.pubMMain = require.main;
