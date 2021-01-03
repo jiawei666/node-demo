@@ -40,6 +40,7 @@ npm install
         ```shell script
         npm i -g webpack
         npm i -g webpack-cli
+        npm i -g webpack-dev-server
         ```
       
 ##### 当前进度：`10/18`
