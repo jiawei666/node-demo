@@ -1,29 +1,24 @@
-### vuejs-demo
+# vue
 
-vue-cli的demo项目，通过项目增加对vue的理解
-
-### 环境要求
-- node 15.5+
-- npm 7.3+
-
-
-### 运行
-
-- 安装依赖
-```shell script
-# 根目录运行
+## Project setup
+```
 npm install
 ```
 
-- 全局安装工具
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-    - `@vue/cli`
-        ```shell script
-        npm install -g @vue/cli
-        ```
-      
+### Compiles and minifies for production
+```
+npm run build
+```
 
-    
-     
-      
+### Lints and fixes files
+```
+npm run lint
+```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
