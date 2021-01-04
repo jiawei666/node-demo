@@ -1,0 +1,11 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "vue-cli的demo项目，通过项目增加对vue的理解",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiawei666",
+  "license": "ISC"
+}
