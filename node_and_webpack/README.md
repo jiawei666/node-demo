@@ -1,4 +1,4 @@
-### vue-demo
+### node-and-webpack
 ![](https://img.shields.io/badge/build-passing-green)
 
 vue-demo项目，通过项目增加对nodejs、npm、webpack的理解
@@ -43,7 +43,8 @@ npm install
         npm i -g webpack-dev-server
         ```
       
-##### 当前进度：`10/18`
+### node_lessons 学习进度
+* [x] `18/18`
 
     
      
